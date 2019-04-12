@@ -2,10 +2,10 @@
 
 readme files are good thing
 
-##Why
+## Why
 
 because that is the way it is
 
-###When@
+### When@
 
 Since eternity 
